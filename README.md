@@ -1,15 +1,13 @@
 # Project Name
 
-Description of the project.
+The project aims to create a responsive and visually appealing website template using HTML, CSS, and JavaScript. The template provides a base structure for building responsive websites with a modern design and smooth scrolling functionality. It includes a responsive navigation bar, featured section, product introduction, latest products section, trending items section, and a footer. The template ensures that the website adapts seamlessly to different screen sizes and devices, providing an optimal viewing experience for users across desktop, tablet, and mobile devices.
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](https://shakeelkhuhro.github.io/E-Shop/)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Demo
 
@@ -36,11 +34,10 @@ Include a screenshot or GIF of your project in action. If applicable, provide a 
 # Contributing
 We welcome contributions from the community! If you're interested in contributing to this project, please follow the guidelines below:
 
-**Fork the repository and create your branch:**
+1. Fork the repository and create your branch:**
     `git checkout -b feature/your-feature`
 1. Commit your changes: git commit -m 'Add some feature'
 1. Push to your branch: git push origin feature/your-feature
 1. Open a pull request explaining the changes you've made.
-1. Please refer to our Contributing Guidelines for more details.
 
 *Thank You*
