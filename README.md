@@ -1,4 +1,4 @@
-# Project Name
+# E-shop
 
 The project aims to create a responsive and visually appealing website template using HTML, CSS, and JavaScript. The template provides a base structure for building responsive websites with a modern design and smooth scrolling functionality. It includes a responsive navigation bar, featured section, product introduction, latest products section, trending items section, and a footer. The template ensures that the website adapts seamlessly to different screen sizes and devices, providing an optimal viewing experience for users across desktop, tablet, and mobile devices.
 
